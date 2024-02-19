@@ -1,4 +1,6 @@
 # NewGen-HUB
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Germaniad/NewGen-HUB/main/NewGenHUB.lua"))()
+
 It's free hub for Pet Simulator 99
 
 In this hub you have a lot of functions.
